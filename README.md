@@ -1,5 +1,5 @@
-<h1 align="center">Hey there! I'm YeYuLemon</h1>
-<h2 align="center">Full-stack development engineer</h2>
+<h1 align="center"> Hey there! I'm YeYuLemon👋 </h1>
+<h2 align="center"> Full-stack development engineer </h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -27,8 +27,8 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-- <a href="https://www.yeyulemon.top"><img alt="website" src="https://img.shields.io/badge/website-www.yeyulemon.top-blue?style=flat-square&logo=Weblate"></a>
-- <a href="https://www.blog.yeyulemon.top"><img alt="blog" src="https://img.shields.io/badge/blog-www.blog.yeyulemon.top-blue?style=flat-square&logo=Blogger"></a>
-- <a href="https://www.imgbed.yeyulemon.top"><img alt="imgbed" src="https://img.shields.io/badge/blog-www.imgbed.yeyulemon.top-blue?style=flat-square&logo=IMDb"></a>
-- <a href="https://space.bilibili.com/302224089"><img alt="bilibili" src="https://img.shields.io/badge/bilibili-www.space.bilibili.com/302224089-blue?style=flat-square&logo=Bilibili"></a>
+- <a href="https://yeyulemon.top"><img alt="website" src="https://img.shields.io/badge/website-yeyulemon.top-blue?style=flat-square&logo=Weblate"></a>
+- <a href="https://blog.yeyulemon.top"><img alt="blog" src="https://img.shields.io/badge/blog-blog.yeyulemon.top-blue?style=flat-square&logo=Blogger"></a>
+- <a href="https://imgbed.yeyulemon.top"><img alt="imgbed" src="https://img.shields.io/badge/imgbed-imgbed.yeyulemon.top-blue?style=flat-square&logo=IMDb"></a>
+- <a href="https://space.bilibili.com/302224089"><img alt="bilibili" src="https://img.shields.io/badge/bilibili-space.bilibili.com/302224089-blue?style=flat-square&logo=Bilibili"></a>
 - <a href="mailto:yeyulemon@gmail.com"><img alt="email" src="https://img.shields.io/badge/email-yeyulemon@gmail.com-blue?style=flat-square&logo=gmail"></a>
